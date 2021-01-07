@@ -1,0 +1,2 @@
+- LINEとgoogle calendarをつなげるコード
+- LINE NotifyとGoogle Apps Scriptを使用 
